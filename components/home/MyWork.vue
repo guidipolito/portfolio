@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import ListItem from '../components/ListItem';
+import ListItem from '../ListItem';
 
 export default {
     name: 'MyWork',
@@ -23,8 +23,10 @@ export default {
     data:{ 
         selected: 0,
         items: [
-            title: 'Snow fox',
-            description: 'Something',
+            {
+                title: 'Snow fox',
+                description: 'Something',
+            }
         ],
     },
 }
