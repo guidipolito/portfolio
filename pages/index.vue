@@ -56,7 +56,7 @@
                             Javascript
                         </Badge>
                     </div>
-                    <h3 class="mt-5 mb-1 font-semibold">Front-end related</h3>
+                    <h3 class="mt-5 mb-1 font-semibold">Front end related</h3>
                     <div class="flex justify-center flex-wrap gap-2">
                         <Badge>
                             <i class="devicon-react-plain colored text-xl"></i>
@@ -83,7 +83,7 @@
                             jQuery
                         </Badge>
                     </div>
-                    <h3 class="mt-5 mb-1 font-semibold">Back-end related</h3>
+                    <h3 class="mt-5 mb-1 font-semibold">Back end related</h3>
                     <div class="flex justify-center flex-wrap gap-2">
                         <Badge>
                             <i class="devicon-php-plain colored text-xl"></i>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="72.570808mm"
+   height="62.938385mm"
+   viewBox="0 0 72.570808 62.938385"
+   version="1.1"
+   id="svg1937"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1934">
+    <linearGradient
+       id="linearGradient8850">
+      <stop
+         style="stop-color:#004bfa;stop-opacity:0.76575887;"
+         offset="0"
+         id="stop8846" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop8848" />
+    </linearGradient>
+    <rect
+       x="44.490548"
+       y="27.142033"
+       width="219.37479"
+       height="199.22814"
+       id="rect6868" />
+    <rect
+       x="14.270557"
+       y="42.252036"
+       width="246.237"
+       height="175.16406"
+       id="rect6858" />
+    <rect
+       x="246.40031"
+       y="182.03021"
+       width="199.44182"
+       height="156.70425"
+       id="rect2925" />
+    <linearGradient
+       xlink:href="#linearGradient8850"
+       id="linearGradient8852"
+       x1="32.133539"
+       y1="54.085912"
+       x2="77.165637"
+       y2="54.085912"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-17.524467,-20.042633)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,17.524467,20.042633)"
+       id="text6856"
+       style="font-style:normal;font-weight:normal;font-size:192px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect6858);fill:#000000;fill-opacity:1;stroke:none"><tspan
+         x="14.271484"
+         y="392.11205"
+         id="tspan10008"><tspan
+           style="font-size:120px"
+           id="tspan10006">D</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,17.524467,20.042633)"
+       id="text6866"
+       style="font-style:normal;font-weight:normal;font-size:146.66666852px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect6868);fill:#000000;fill-opacity:1;stroke:none" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:52.9167px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583;fill-opacity:1;fill:url(#linearGradient8852)"
+       x="27.371037"
+       y="72.977173"
+       id="text6874"><tspan
+         id="tspan6872"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583;fill-opacity:1;fill:url(#linearGradient8852)"
+         x="27.371037"
+         y="72.977173">D'</tspan></text>
+  </g>
+</svg>
